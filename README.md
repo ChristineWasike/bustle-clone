@@ -5,12 +5,12 @@ A short introduction of this app could easily go here.
 
 ## Prerequisites
 
-You will need the following things properly installed on your computer.
+### You will need the following things properly installed on your computer.
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with NPM)
-* [Ember CLI](https://ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
+#### * [Git](https://git-scm.com/)
+#### * [Node.js](https://nodejs.org/) (with NPM)
+#### * [Ember CLI](https://ember-cli.com/)
+#### * [PhantomJS](http://phantomjs.org/)
 
 ## Installation
 
