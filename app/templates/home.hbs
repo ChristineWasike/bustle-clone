@@ -1,0 +1,8 @@
+<div class="container">
+  <h2>Headlines</h2>
+  <div class="row">
+    {{#each model as |news|}}
+      <li>Lately in {{news.type}}, {{news.title}}</li>
+    {{/each}}
+  </div>
+</div>
